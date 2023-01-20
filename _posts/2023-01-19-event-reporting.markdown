@@ -6,10 +6,10 @@ categories: event
 ---
 The UMPIRES showed up!
 
-![](/assets/2022-01-18/1.png)
+![]({{ site.baseurl }}/assets/2022-01-18/1.png)
 
-![](/assets/2022-01-18/2.png)
+![]({{ site.baseurl }}/assets/2022-01-18/2.png)
 
-![](/assets/2022-01-18/3.png)
+![]({{ site.baseurl }}/assets/2022-01-18/3.png)
 
-![](/assets/2022-01-18/4.png)
+![]({{ site.baseurl }}/assets/2022-01-18/4.png)
